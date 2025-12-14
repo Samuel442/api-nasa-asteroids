@@ -65,3 +65,10 @@ To demonstrate best practices in **Data Engineering and Data Analysis**, includi
 - Complex JSON handling
 - Database persistence
 - Data visualization with Looker Studio
+
+## 📊 Dashboard (Looker Studio)
+
+The interactive dashboard built with **Looker Studio** is available at the link below:
+
+🔗 **Live Dashboard:**  
+https://lookerstudio.google.com/reporting/58d50d3f-0f7c-4c4b-8616-bcf93d233ce3
