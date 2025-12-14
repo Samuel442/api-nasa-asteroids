@@ -72,3 +72,6 @@ The interactive dashboard built with **Looker Studio** is available at the link 
 
 🔗 **Live Dashboard:**  
 https://lookerstudio.google.com/reporting/58d50d3f-0f7c-4c4b-8616-bcf93d233ce3
+
+> **Note:** Although the data was collected during **December 5–11, 2025**, the `close_approach_date` represents the **actual date of each close-approach event**, which may be **historical or future**, according to NASA records.
+
